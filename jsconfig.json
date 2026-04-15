@@ -1,4 +1,3 @@
-```json
 {
   "compilerOptions": {
     "baseUrl": ".",
@@ -7,7 +6,3 @@
     }
   }
 }
-```
-
----
-
